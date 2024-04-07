@@ -1,4 +1,4 @@
-# CodeCraft: Exercise Your Coding Skills
+# CodeCraft: Exercise Your Coding Skills 💻
 
 This project draws inspiration from LeetCode.
 
@@ -21,7 +21,7 @@ This project draws inspiration from LeetCode.
 - **Expand Code Editor Language Support**: Enhance the code editor to support at least 3 languages, including C++ and Python.
 
 
-## Tech Stack
+## Tech Stack 🛠️
 
 - **NEXT.js**
 - **TypeScript** 
@@ -29,7 +29,7 @@ This project draws inspiration from LeetCode.
 - **Recoil.js**
 
 
-## Getting Started
+## Getting Started 🚀
 
 To begin using CodeCraft, follow these steps:
 
